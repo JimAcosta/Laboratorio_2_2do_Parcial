@@ -1,0 +1,36 @@
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\bin\Debug\net6.0\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Nueva carpeta\Alonso.Tomas.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\bin\Debug\net6.0\Entidades.dll
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.dll
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.pdb
+C:\Users\Jim\Desktop\AcostaJimmy2doParicial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\bin\Debug\net6.0\Entidades.dll
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.dll
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\Entidades.pdb
+C:\Users\Jim\Desktop\Acosta.Jimmy2doParcial\Acosta.Jimmy.A323\Segundo.Parcial.Series.Cascara\Serie\obj\Debug\net6.0\ref\Entidades.dll

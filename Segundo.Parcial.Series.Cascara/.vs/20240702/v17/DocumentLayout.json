@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jim\\Desktop\\Acosta.Jimmy2doParcial\\Acosta.Jimmy.A323\\Segundo.Parcial.Series.Cascara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9D60A9-918C-4058-BD17-A7D8037FA8A2}|Serie\\Entidades.csproj|c:\\users\\jim\\desktop\\acosta.jimmy2doparcial\\acosta.jimmy.a323\\segundo.parcial.series.cascara\\serie\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9D60A9-918C-4058-BD17-A7D8037FA8A2}|Serie\\Entidades.csproj|solutionrelative:serie\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Jim\\Desktop\\Acosta.Jimmy2doParcial\\Acosta.Jimmy.A323\\Segundo.Parcial.Series.Cascara\\Serie\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Serie\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Jim\\Desktop\\Acosta.Jimmy2doParcial\\Acosta.Jimmy.A323\\Segundo.Parcial.Series.Cascara\\Serie\\AccesoDatos.cs",
+              "RelativeToolTip": "Serie\\AccesoDatos.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:27:36.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
